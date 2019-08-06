@@ -116,7 +116,7 @@ header{
 header .mLogo{
   display: inline;
   margin: 0 0 0 10px;
-  font-family: Monofett;
+  font-family: Monofett, cursive;
   font-size: 48px;
 }
 .mMenu, .mMenu ul, .mMenu li{
@@ -137,7 +137,7 @@ footer{
   bottom: 0;
 }
 footer .mLogo{
-  font-family: Monofett;
+  font-family: Monofett, cursive;
   font-size: 24px;
 }
 footer p{
