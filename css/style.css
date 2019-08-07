@@ -107,7 +107,7 @@ body{
   width: 100vw;
   height: 100vh;
   font-family: Lato, sans-serif;
-  font-size: 16px;
+  font-size: 17px;
 }
 header{
   background: #007EA7;
@@ -133,6 +133,22 @@ header .mLogo{
   text-decoration: none;
   color: #182628;
   padding: 10px;
+}
+.mContainer, .mAside{
+  width: 100%;
+  margin: 0 10px;
+}
+.mAside a{
+  text-decoration: none;
+  margin: 10px 0;
+}
+.icon-whatsapp{
+  display: block;
+  color:#075E54;
+}
+.icon-paypal{
+  display: block;
+  color:#012169;
 }
 footer{
   background: #003249;
